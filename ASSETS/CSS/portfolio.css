@@ -75,6 +75,8 @@ audio{
 iframe{
     width: 80vw;
     height: 45vw;
+    margin-bottom: 50px;
+    border-radius: 5px;
 }
 
 main {
@@ -111,6 +113,13 @@ p{
     text-align: justify;
     padding-top: 3vh;
     padding-bottom: 1.5vh;
+    letter-spacing: 1px;
+    line-height: 125%;
+    font-size: 1.25rem;
+}
+
+.sangria{
+    padding-left: 50px;
 }
 
 /* ================================================= */

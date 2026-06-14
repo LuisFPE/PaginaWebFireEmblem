@@ -78,6 +78,7 @@
     
     .subtitulos{
         font-family: "Permanent Marker";
+        letter-spacing: 2px;
     }
     
     .subtitulos:hover{
@@ -88,6 +89,13 @@
         text-align: justify;
         padding-top: 3vh;
         padding-bottom: 1.5vh;
+        letter-spacing: 1px;
+        line-height: 125%;
+        font-size: 1.25rem;
+    }
+
+    .sangria{
+        padding-left: 50px;
     }
     
     .mapicon{
